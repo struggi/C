@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Github code\C\二分查找\test.c(22): warning C4715: “find”: 不是所有的控件路径都返回值
+  二分查找.vcxproj -> D:\Github code\C\二分查找\x64\Debug\二分查找.exe

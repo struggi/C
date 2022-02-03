@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f6987d8-daf1-43ad-a6e0-fe2f5381279f": {
+      "ProjectGuid": "6f6987d8-daf1-43ad-a6e0-fe2f5381279f",
+      "DisplayName": "二分查找",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
