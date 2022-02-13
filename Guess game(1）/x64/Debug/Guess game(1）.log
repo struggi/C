@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Github code\C\Guess game(1）\test.c(13,26): warning C4013: “time”未定义；假设外部返回 int
+  Guess game(1）.vcxproj -> D:\Github code\C\Guess game(1）\x64\Debug\Guess game(1）.exe
